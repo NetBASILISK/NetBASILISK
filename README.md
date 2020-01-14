@@ -1,18 +1,22 @@
 # Project
 Catch-all repository for the NetBASILISK project.  Post Issues for ZenHub here as well.
 
-#CC* Integration: NetBASILISK: NETwork Border At Scale Integrating and Leveraging Individual Security Components
-##Award Number: 1925476
-#Documentation
- ##NSF Award Abstract: https://nsf.gov/awardsearch/showAward?AWD_ID=1925476&HistoricalAwards=false
- ##U-M Google working folder: https://drive.google.com/drive/folders/0ADBQrIKM7OhmUk9PVA
+CC* Integration: NetBASILISK: NETwork Border At Scale Integrating and Leveraging Individual Security Components
+Award Number: 1925476
+
+Documentation
+NSF Award Abstract: https://nsf.gov/awardsearch/showAward?AWD_ID=1925476&HistoricalAwards=false
+U-M Google working folder: https://drive.google.com/drive/folders/0ADBQrIKM7OhmUk9PVA
  Campus Cyberinfrastructure (CC*) (NSF 19-533) program solicitation URL: https://www.nsf.gov/pubs/2019/nsf19533/nsf19533.htm
  U-M Box NetBASILISK folder: https://umich.app.box.com/folder/85604312607
+ 
 Working Online Groups
  GitHub group: https://github.com/NetBASILISK
  Docker group: https://cloud.docker.com/u/netbasilisk/
+ 
 Communication/EMAIL groups
  Slack Group:  https://netbasilisk.slack.com
+ 
 Email Groups ( owners: Brittni, Kat, Eric)
  NetBASILISK@umich.edu: NetBASILISK external facing contact email groupi
  NetBASILISK-admin@umich.edu  
@@ -65,6 +69,7 @@ Email Groups ( owners: Brittni, Kat, Eric)
   Christa Carr <cleecarr@umich.edu> (CoE CSE)
   Ashley Schork- ashlscho@umich.edu (LSI)
   Shawn McKee - smckee@umich.edu
+  
 Meetings
  Core team meetings 
   1 hour
